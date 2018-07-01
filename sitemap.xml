@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.hi-v.cn/blog/2018-06/install-php7-2-on-ubuntu.html</loc>
+    
+    <lastmod>2018-07-01T07:49:53.295Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.hi-v.cn/blog/2018-06/install-nginx-on-ubuntu.html</loc>
     
-    <lastmod>2018-06-30T15:58:04.216Z</lastmod>
+    <lastmod>2018-07-01T01:19:57.197Z</lastmod>
     
   </url>
   
