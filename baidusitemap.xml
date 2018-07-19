@@ -4,16 +4,16 @@
 
     
   <url>
-    <loc>http://blog.hi-v.cn//blog/2018-06/install-php7-2-on-ubuntu.html</loc>
-    <lastmod>2018-07-01T08:00:24.945Z</lastmod>
+    <loc>http://blog.hi-v.cn//blog/2018-06/install-mysql-on-ubuntu.html</loc>
+    <lastmod>2018-07-14T09:04:17.121Z</lastmod>
     <data>
         <display>
-        <title>ubuntu16.04下编译安装PHP7.2</title>
-        <pubTime>2018-06-22T13:21:47.000Z</pubTime>
+        <title>install-mysql-on-ubuntu</title>
+        <pubTime>2018-06-22T15:10:25.000Z</pubTime>
         
         <tag>ubuntu</tag>
          
-        <tag>php</tag>
+        <tag>mysql</tag>
          
          
            
@@ -24,7 +24,7 @@
     
   <url>
     <loc>http://blog.hi-v.cn//blog/2018-06/install-nginx-on-ubuntu.html</loc>
-    <lastmod>2018-07-01T01:19:57.197Z</lastmod>
+    <lastmod>2018-07-01T08:13:53.220Z</lastmod>
     <data>
         <display>
         <title>ubuntu16.04下编译安装nginx1.14</title>
@@ -36,6 +36,31 @@
          
          
            
+             
+              <breadCrumb title="nginx" url="http://blog.hi-v.cn/categories/nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hi-v.cn//blog/2018-06/install-php7-2-on-ubuntu.html</loc>
+    <lastmod>2018-07-01T08:13:53.214Z</lastmod>
+    <data>
+        <display>
+        <title>ubuntu16.04下编译安装PHP7.2</title>
+        <pubTime>2018-06-22T13:21:47.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+        <tag>php</tag>
+         
+         
+           
+             
+              <breadCrumb title="php" url="http://blog.hi-v.cn/categories/php/"/>
+          
         </display>
     </data>
     </url>
